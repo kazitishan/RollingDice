@@ -1,0 +1,22 @@
+/* Header */
+header {
+    text-align: center;
+}
+
+/* Button */
+button {
+    display: block;
+    margin: 0;
+}
+
+/* The die */
+p {
+    text-align: center;
+    margin: 0;
+}
+
+/* Sum */
+p.total {
+    font-weight: bold;
+    color: green;
+}
